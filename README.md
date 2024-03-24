@@ -4,7 +4,7 @@
 <details>
   <summary><em>👨‍💻 Mais sobre mim</em></summary>
 
-  - 💬 Tenho 20 anos, sou recém-formada na área de design e aluna do primeiro ano de análise e desenvolvimento de sistemas na FIAP. No momento meu objetivo é o ganho de crescimento profissional, pessoal e aprendizagem na área de tecnologia. 
+  - 💬 Tenho 20 anos, sou formada tecnica em comunicação visual no senac e aluna do segundo semestre de análise e desenvolvimento de sistemas na FIAP. No momento meu objetivo é o ganho de crescimento profissional, pessoal e aprendizagem na área de tecnologia. 
 
   - ☕ Gosto de ouvir uma boa música enquanto me divirto criando montagens e ilustrações digitais.
 </details>
